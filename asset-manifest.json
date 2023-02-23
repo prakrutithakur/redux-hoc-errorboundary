@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-hoc-errorboundary/static/css/main.7afa5f07.css",
+    "main.js": "/redux-hoc-errorboundary/static/js/main.ee63037c.js",
+    "static/js/787.9d4f34bb.chunk.js": "/redux-hoc-errorboundary/static/js/787.9d4f34bb.chunk.js",
+    "index.html": "/redux-hoc-errorboundary/index.html",
+    "main.7afa5f07.css.map": "/redux-hoc-errorboundary/static/css/main.7afa5f07.css.map",
+    "main.ee63037c.js.map": "/redux-hoc-errorboundary/static/js/main.ee63037c.js.map",
+    "787.9d4f34bb.chunk.js.map": "/redux-hoc-errorboundary/static/js/787.9d4f34bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afa5f07.css",
+    "static/js/main.ee63037c.js"
+  ]
+}
